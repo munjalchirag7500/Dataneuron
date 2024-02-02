@@ -1,3 +1,3 @@
 export const CONSTANTS = {
-    SERVER : "http://localhost:4200/api",
+    SERVER : "http://dataneuron-env.eba-egzv33vt.us-east-1.elasticbeanstalk.com/api",
 }
